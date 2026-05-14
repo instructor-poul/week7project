@@ -1,7 +1,7 @@
 name: Feature Issue
 description: Create a new feature (parent issue)
 title: "[FEATURE]: "
-labels: ["feature"]
+labels: ["Product Backlog"]
 
 body:
   - type: textarea
