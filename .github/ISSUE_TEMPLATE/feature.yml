@@ -1,6 +1,6 @@
 name: Feature Issue
 description: Create a new feature (parent issue)
-title: "[FEATURE]: "
+title: "[Product Backlog]: "
 labels: ["Product Backlog"]
 
 body:
